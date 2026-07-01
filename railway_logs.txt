@@ -1,0 +1,2 @@
+Ticket: 1003 | Booked | Name: Hari | Seat: 3
+Ticket: 1003 | Cancelled | Name: Hari | Freed Seat: 3
